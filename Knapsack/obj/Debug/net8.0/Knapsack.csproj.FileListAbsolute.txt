@@ -1,0 +1,14 @@
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\bin\Debug\net8.0\Knapsack.exe
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\bin\Debug\net8.0\Knapsack.deps.json
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\bin\Debug\net8.0\Knapsack.runtimeconfig.json
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\bin\Debug\net8.0\Knapsack.dll
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\bin\Debug\net8.0\Knapsack.pdb
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.AssemblyInfoInputs.cache
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.AssemblyInfo.cs
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.csproj.CoreCompileInputs.cache
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.dll
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\refint\Knapsack.dll
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.pdb
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.genruntimeconfig.cache
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\ref\Knapsack.dll
