@@ -1,5 +1,5 @@
 ﻿using System.Runtime.CompilerServices;
-[assembly: InternalsVisibleTo("Tests")]
+[assembly: InternalsVisibleTo("Tests"), InternalsVisibleTo("GUI")]
 
 namespace Knapsack;
 internal class Problem
