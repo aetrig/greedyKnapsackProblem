@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0z7UQoQvdU8=",
+  "dgSpecHash": "+lOAza4UQME=",
   "success": true,
-  "projectFilePath": "C:\\Users\\goszt\\Desktop\\projects\\NET\\Lab1\\Knapsack\\Knapsack.csproj",
+  "projectFilePath": "C:\\Users\\goszt\\Desktop\\projects\\NET\\Lab1\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\goszt\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\goszt\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

@@ -12,3 +12,4 @@ C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\refint\Knapsa
 C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.pdb
 C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.genruntimeconfig.cache
 C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\ref\Knapsack.dll
+C:\Users\goszt\Desktop\projects\NET\Lab1\Knapsack\obj\Debug\net8.0\Knapsack.sourcelink.json
