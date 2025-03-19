@@ -1,27 +1,34 @@
-﻿namespace Knapsack;
+﻿using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("Tests")]
 
-public class Problem
+namespace Knapsack;
+internal class Problem
 {
 	private int itemCount;
-	private List<Item> items = new();
+	internal List<Item> items = new();
 
-	public Problem(int n, int seed) {
+	public Problem(int n, int seed = 0) 
+	{
 		Random rand = new(seed);
 		itemCount = n;
-		for (int i = 0; i < itemCount; i++) {
-			items.Add(new(i, rand.Next(10)+1, rand.Next(10) + 1));
+		for (int i = 0; i < itemCount; i++) 
+		{
+			items.Add(new(i, rand.Next(10)+1, rand.Next(10)+1));
 		}
 	}
 
-	public override string ToString() {
+	public override string ToString() 
+	{
 		string output = "";
-		for (int i = 0; i < itemCount; i++) {
-			output += $"item {items[i].id}: weight: {items[i].weight} value: {items[i].value}\n"; //   ratio: {(double)items[i].value/ (double)items[i].weight}\n
+		for (int i = 0; i < itemCount; i++) 
+		{
+			output += $"item {items[i].id}: weight: {items[i].weight} value: {items[i].value}\n";
 		}
 		return output;
 	}
 
-	private static int compareItems(Item x, Item y) {
+	private static int compareItems(Item x, Item y) 
+	{
 		double xRatio = (double)x.value / (double)x.weight;
 		double yRatio = (double)y.value / (double)y.weight;
 
@@ -30,11 +37,14 @@ public class Problem
 
 		return 0;
 	}
-	public Result Solve(int capacity) {
+	public Result Solve(int capacity) 
+	{
 		items.Sort(compareItems);
 		Result result = new();
-		for (int i = 0; i < itemCount; i++) {
-			if (result.weight + items[i].weight <= capacity) {
+		for (int i = 0; i < itemCount; i++) 
+		{
+			if (result.weight + items[i].weight <= capacity) 
+			{
 				result.AddItem(items[i].id, items[i].weight, items[i].value);
 			}
 		}

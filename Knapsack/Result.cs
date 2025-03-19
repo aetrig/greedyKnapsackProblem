@@ -1,17 +1,21 @@
-﻿namespace Knapsack;
+﻿using System.Runtime.CompilerServices;
+[assembly: InternalsVisibleTo("Tests")]
 
-public class Result
+namespace Knapsack;
+internal class Result
 {
-	List<int> items = new();
+	internal List<int> items = new();
 	int value;
 	public int weight;
 
-	public Result() {
+	public Result() 
+	{
 		value = 0;
 		weight = 0;
 	}
 
-	public void AddItem(int id, int weight, int value) {
+	public void AddItem(int id, int weight, int value) 
+	{
 		items.Add(id);
 		this.value += value;
 		this.weight += weight;
@@ -20,7 +24,8 @@ public class Result
 	public override string ToString()
 	{
 		string output = "items:";
-		foreach (int item in items) {
+		foreach (int item in items) 
+		{
 			output += $" {item}";
 		}
 		

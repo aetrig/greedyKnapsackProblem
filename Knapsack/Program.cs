@@ -1,4 +1,4 @@
-﻿//[assembly: InternalsVisibleTo("Tests")]
+﻿
 namespace Knapsack;
 class Program
 {
