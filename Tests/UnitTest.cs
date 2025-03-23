@@ -86,7 +86,7 @@ public sealed class UnitTest
 
     [TestMethod]
     //Checks whether the numbers of items put in the backpack is not equal to its capacity if the number of generated items with weight 1 is less than capacity
-    public void TestMethod()
+    public void TestMethodNotAllItemsOne()
     {
         Random random = new Random();
         int itemCount = random.Next(10) + 1;

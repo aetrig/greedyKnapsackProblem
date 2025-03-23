@@ -33,6 +33,10 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
@@ -40,7 +44,7 @@
               "RelativeDocumentMoniker": "GUI\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\goszt\\Desktop\\projects\\NET\\Lab1\\GUI\\Form1.Designer.cs",
               "RelativeToolTip": "GUI\\Form1.Designer.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAEEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T18:55:28.724Z",
               "EditorCaption": ""
@@ -61,15 +65,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GUI",
+              "Title": "GUI.csproj",
               "DocumentMoniker": "C:\\Users\\goszt\\Desktop\\projects\\NET\\Lab1\\GUI\\GUI.csproj",
               "RelativeDocumentMoniker": "GUI\\GUI.csproj",
               "ToolTip": "C:\\Users\\goszt\\Desktop\\projects\\NET\\Lab1\\GUI\\GUI.csproj",
               "RelativeToolTip": "GUI\\GUI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-19T18:48:39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T18:48:39Z"
             },
             {
               "$type": "Document",
@@ -81,12 +84,7 @@
               "RelativeToolTip": "Knapsack\\Problem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T18:48:02.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2025-03-19T18:48:02.788Z"
             },
             {
               "$type": "Document",
